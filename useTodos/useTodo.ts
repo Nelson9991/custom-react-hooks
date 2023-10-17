@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { useEffect, useReducer } from 'react';
-import { todoReducer } from '../08-UseReducer/todoReducer';
+import { todoReducer } from './todoReducer';
 
 const initialState: never[] = [];
 
